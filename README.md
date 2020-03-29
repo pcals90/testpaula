@@ -1,5 +1,3 @@
 "# testpaula" 
 
 Suma implementada
-
-asdjuasdfjasdfhasdf
