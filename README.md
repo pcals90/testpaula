@@ -4,6 +4,7 @@ Suma + implementada
 
 Multiplicacion implementada
 
-Resta implementada
+esta es una Resta implementada con cambios
+
 
 Raiz implementada
