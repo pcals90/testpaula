@@ -2,4 +2,4 @@
 
 Suma implementada
 
-Multiplicacion
+Multiplicacion implementada
